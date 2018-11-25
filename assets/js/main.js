@@ -80,11 +80,11 @@ jQuery(document).ready(function ($) {
                 );
     });
 
-/*$(document).ready(function(){
+$(document).ready(function(){
     $(".btn-default").click(function(){
         alert("We Are Working On This Service. This Will Be Available Soon");
     });
-});*/
+});
     /*---------------------------------------------*
      * STICKY scroll
      ---------------------------------------------*/
